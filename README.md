@@ -58,4 +58,4 @@ The optimized output will be in the `dist/` directory.
 
 ## 🖼️ Screenshots
 
-_Add screenshots of the project in action to demonstrate the layout and features._
+![Home Page](./src/assets/screenshot/screenshot.png)
