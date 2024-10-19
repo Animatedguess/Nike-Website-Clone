@@ -1,7 +1,9 @@
-
 # Nike Website Clone 👟💻
 
 A **single-page application** built using **Vite**, **React**, and **Tailwind CSS**. This project is a clone of the official Nike website, created to showcase my ability to build responsive, modern layouts using Tailwind’s utility-first CSS framework. The app is optimized for performance and scalability, using Vite’s fast build and development features.
+
+## 🌐 Live Demo
+-Check out the live version of the project here: ![Nike Website Clone](https://nike-website0-clone.netlify.app)
 
 ## 🚀 Features
 
